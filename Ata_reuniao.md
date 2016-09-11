@@ -27,10 +27,10 @@ Data         | Local
 ### Ações a serem tomadas
 Ação         | Responsável   
 ------------ | ------------- 
-Guthemberg | Estudar Git e o framework Rails, pesquisar concorrentes
-Jean Pierre | Estudar Git e o framework Rails, gerenciar os repositórios
-João Paulo Lins | Estudar Git e o framework Rails, gerenciar Trello
-Matheus Raz | Estudar Git e o framework Rails, gerenciar Drive
+Guthemberg | Estudar Git e o framework Rails, pesquisar concorrentes.
+Jean Pierre | Estudar Git e o framework Rails, gerenciar os repositórios e analisar banco de dados.
+João Paulo Lins | Estudar Git e o framework Rails, gerenciar Trello.
+Matheus Raz | Estudar Git e o framework Rails, gerenciar Drive.
 
 ###Informações Adicionais
 * Nós não temos cliente.
