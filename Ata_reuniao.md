@@ -5,30 +5,32 @@
 
 Data         | Local
 ------------ | -------------
-xx/xx/xxxx   |Alguma coisa
+11/09/2016   | Recife, PE.
 
 
 ### Participantes
-* eu
-* tu
-* ele
+* Guthemberg Sampaio
+* Jean Pierre
+* João Paulo Lins
 
 ### Objetivos
-* Alguma coisa
-* Alguma coisa
-* Alguma coisa
+* Definir tema do projeto
+* Criar reposiórios
+* Redigir o README.md
+* Criar dashboard no Trello
 
 ### Tópicos Discutidos
-* Alguma coisa
-* Alguma coisa
-* Alguma coisa
+* Tema do projeto
+* Organização de diretórios
+* Falar sobre o calendário
 
 ### Ações a serem tomadas
 Ação         | Responsável   
 ------------ | ------------- 
-Alguma coisa |Alguma coisa   
+Guthemberg | Estudar Git e o framework Rails, pesquisar concorrentes
+Jean Pierre | Estudar Git e o framework Rails, gerenciar os repositórios
+João Paulo Lins | Estudar Git e o framework Rails, gerenciar Trello
+Matheus Raz | Estudar Git e o framework Rails, gerenciar Drive
 
 ###Informações Adicionais
-* Alguma coisa
-
-
+* Nós não temos cliente.
