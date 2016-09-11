@@ -9,7 +9,7 @@ NaoSeiOndeIr se diferencia dos demais concorrentes pois a aplicação sugere os 
 
 
 ### Especificação do papel de cada membro
-####Guthemberg - Developer\n
-####Jean Pierre - Developer\n
-####João Paulo Lins - Developer\n
-####Matheus Raz - Project Manager\b
+####Guthemberg - Developer
+####Jean Pierre - Developer
+####João Paulo Lins - Developer
+####Matheus Raz - Project Manager
